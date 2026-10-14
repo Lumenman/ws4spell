@@ -14,7 +14,7 @@ The first entry of a block has prefix 0 (+ bit 7), so a block's first word reads
 directly. FFh in place of a prefix (or the end of the block) ends the block.
 Lookup: binary search over the blocks' first words, then a linear scan of one block.
 
-VESUM: forms tagged :bad are left out (as wsspell/vesum.py); a form is offered as a
+VESUM: forms tagged :bad are left out (as ws7spell/vesum.py); a form is offered as a
 suggestion only if one of its readings has none of NOSUGG and is not a vocative,
 and it is longer than two letters.
 OpenCorpora (python -m pip install --user pymorphy3 pymorphy3-dicts-ru): readings

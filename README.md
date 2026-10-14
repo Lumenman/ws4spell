@@ -3,6 +3,8 @@
 Cyrillic spelling for WordStar 4.0 for DOS: Ukrainian and Russian dictionaries with
 suggestions, built from open word lists and plugged into the original spelling overlay.
 
+For WordStar 7.0 see [ws7spell](https://github.com/Lumenman/ws7spell).
+
 WordStar 4.0 checks spelling with CorrectStar 3.0 (Houghton Mifflin), whose dictionary
 format can only hold English: a 5-bit alphabet, an English phonetic index and English
 endings. This project leaves the English checker as it is and adds a second path for

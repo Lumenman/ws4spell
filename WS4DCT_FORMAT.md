@@ -5,7 +5,7 @@ A research specification, 2026-10-14. Sources: the files `MAIN.DCT`, `INTERNAL.D
 (**CorrectStar ver 3.0**, spelling engine (c) 1981, 1987 Houghton Mifflin),
 disassembled statically and executed under a Unicorn harness with the real
 dictionary files; every structural statement below was confirmed against the
-emulated engine unless marked otherwise. Companion project: [wsspell](https://github.com/Lumenman/wsspell), `SPLMN_FORMAT.md`
+emulated engine unless marked otherwise. Companion project: [ws7spell](https://github.com/Lumenman/ws7spell), `SPLMN_FORMAT.md`
 (the WordStar 7 dictionaries — a completely different, Microlytics, format).
 
 ## Status and scope
