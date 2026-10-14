@@ -1,0 +1,14 @@
+# research files and anything derived from the WordStar files stay local
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/WS4DCT_FORMAT.md
+!/cyrdct.py
+!/cyrovl.py
+!/decode.py
+!/emu4.py
+!/gas16.py
+!/patchcp.py
+!/personal_cyr.py
+!/test_cyrovl.py
